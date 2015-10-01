@@ -20,30 +20,30 @@ All the Bibles that we are scanning and editing are in the public domain. If you
 
 - [x] OCR
 - [x] Split up text into books
-- [] Review Matthew
-- [] Review Mark
-- [] Review Luke
-- [] Review John
-- [] Review Acts
-- [] Review Romans
-- [] Review 1 Corinthians
-- [] Review 2 Corinthians
-- [] Review Galatians
-- [] Review Ephesians
-- [] Review Philippians
-- [] Review Colossians
-- [] Review 1 Thessalonians
-- [] Review 2 Thessalonians
-- [] Review 1 Timothy
-- [] Review 2 Timothy
-- [] Review Titus
-- [] Review Philemon
-- [] Review Hebrews
-- [] Review James
-- [] Review 1 Peter
-- [] Review 2 Peter
-- [] Review 1 John
-- [] Review 2 John
-- [] Review 3 John
-- [] Review Jude
-- [] Review Revelation
+- [ ] Review Matthew
+- [ ] Review Mark
+- [ ] Review Luke
+- [ ] Review John
+- [ ] Review Acts
+- [ ] Review Romans
+- [ ] Review 1 Corinthians
+- [ ] Review 2 Corinthians
+- [ ] Review Galatians
+- [ ] Review Ephesians
+- [ ] Review Philippians
+- [ ] Review Colossians
+- [ ] Review 1 Thessalonians
+- [ ] Review 2 Thessalonians
+- [ ] Review 1 Timothy
+- [ ] Review 2 Timothy
+- [ ] Review Titus
+- [ ] Review Philemon
+- [ ] Review Hebrews
+- [ ] Review James
+- [ ] Review 1 Peter
+- [ ] Review 2 Peter
+- [ ] Review 1 John
+- [ ] Review 2 John
+- [ ] Review 3 John
+- [ ] Review Jude
+- [ ] Review Revelation
