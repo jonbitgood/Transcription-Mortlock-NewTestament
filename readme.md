@@ -45,5 +45,5 @@ All the Bibles that we are scanning and editing are in the public domain. If you
 - [ ] Review 1 John
 - [ ] Review 2 John
 - [ ] Review 3 John
-- [ ] Review Jude
+- [x] Review Jude
 - [ ] Review Revelation
